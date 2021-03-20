@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import Feed from "./Components/Feed";
 import { auth } from "../firebase";
+import Feed from "./Components/Feed";
 import Header from "../Views/Components/Header";
 import CreatePost from "../Views/Components/CreatePost";
 

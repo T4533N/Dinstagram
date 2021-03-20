@@ -91,8 +91,12 @@ function Post({
         </p>
       </div>
       {comments ? (
-        comments.map((comment) => (
-          <Comment username={comment.username} comment={comment.comment} />
+        comments.map((comment, index) => (
+          <Comment
+            key={index}
+            username={comment.username}
+            comment={comment.comment}
+          />
         ))
       ) : (
         <></>
