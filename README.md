@@ -2,14 +2,14 @@
 
 ![image](https://user-images.githubusercontent.com/44163644/113024512-a5600a00-91a8-11eb-958a-09a3325f4c0e.png)
 
-### Tech Stack
+## Tech Stack
 
 1. React
 2. Firebase
 3. Material UI
 4. Vercel (deployment)
 
-### Getting Started
+## Getting Started
 
 1. Clone the repo: `git clone https://github.com/T4533N/Dinstagram.git`
 2. Install dependencies: `cd Dinstagram && yarn`
@@ -17,7 +17,7 @@
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### Deployment
+## Deployment
 
 NOTE: The app is automatically deployed by vercel when code is pushed to the remote repo.
 
