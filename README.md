@@ -1,6 +1,6 @@
-## Dinstagram | Social Media App Build with React Js
+## Dinstagram | Social media app built with React.js
 
-![reactsocial](https://user-images.githubusercontent.com/55942632/93935668-9f452880-fd42-11ea-88e9-e9309fcdad11.jpg)
+![image](https://user-images.githubusercontent.com/44163644/113024512-a5600a00-91a8-11eb-958a-09a3325f4c0e.png)
 
 ### Tech Stack
 
